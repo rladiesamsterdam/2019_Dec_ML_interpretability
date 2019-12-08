@@ -1,2 +1,2 @@
-# Machine Learning Interpretability MLI
-Slides, data and code used for R Ladies Amsterdam event
+# 2019_Dec_TML_interpretability
+Material for the workshop achine Learning Interpretabilit by Teodora Vrabcheva on the 10th december. This repo contains the slides, data and code for the workshop.
